@@ -1,1 +1,1 @@
-My first readme
+alu  first access 
